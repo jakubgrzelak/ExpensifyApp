@@ -3,11 +3,11 @@
 exports[`should render Expenses summary page correctly 1`] = `
 <p>
   Viewing 
-  3
+  25
    
   expenses
    totalling 
-  $1,141.95
+  $25.00
 </p>
 `;
 
@@ -18,17 +18,6 @@ exports[`should render correctly one expense on Expenses summary page 1`] = `
    
   expense
    totalling 
-  $1.95
-</p>
-`;
-
-exports[`should render correctly with zero expeses 1`] = `
-<p>
-  Viewing 
-  0
-   
-  expenses
-   totalling 
-  $0.00
+  $2.50
 </p>
 `;
