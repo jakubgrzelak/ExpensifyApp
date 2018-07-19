@@ -1,0 +1,20 @@
+.login-button {
+    display: inline-block;
+    font-size: $font-size-large;
+    font-weight: 300;
+    padding: $s-size;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    line-height: 1;
+    text-decoration: none;
+    
+}
+
+.logut-button {
+    background: none;
+}
+
+.button--secondary {
+    background: #888888;
+}
